@@ -18,7 +18,6 @@ Use at least Python 3.7 to create virtual environment if desired, then install r
 
 ```bash 
   pip3 install - r requirements.txt
-  cd my-project
 ```
 Uvicorn makes local testing easy!
 ```bash
