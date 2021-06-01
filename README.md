@@ -1,7 +1,8 @@
 
 # RSS Feed Fuser
 
-Parse multiple RSS feeds, sort the contents by time of publish, and provide them for access via a simple API route in JSON format. RSS Feed Fuser is perfect for creating simple topical newsfeeds for your website.
+Parse multiple RSS feeds, sort the contents by time of publish, and provide them for access via a simple API route in JSON format.<br>
+RSS Feed Fuser is perfect for creating simple topical newsfeeds for your website.
 
 The code is pretty simple, have some fun with it and make it your own!
 
@@ -24,7 +25,7 @@ Uvicorn makes local testing easy!
   pip3 install uvicorn
   uvicorn main:app
 ```
-Don't forget to add your feeds to `feeds.txt` by adding just one per line, use the full URL.
+Don't forget to add your feeds to `feeds.txt` by adding just one per line, use the full URL.<br>
 [Learn how to Deploy Deta Micros and Test RSS Feed Fuser Yourself!](https://docs.deta.sh/docs/micros/getting_started)
 
 ## Like the Repo?
